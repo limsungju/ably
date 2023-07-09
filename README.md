@@ -1,5 +1,7 @@
 mysql을 직접 설치하고 아래의 명령어를 실행해야 합니다.
 계정은 root, 비밀번호는 ably1234로 설정 부탁 드립니다.
+스키마는 ably로 생성해주셔야 합니다.
+
  - brew install mysql
  - mysql.server start
  - mysql_secure_installation
